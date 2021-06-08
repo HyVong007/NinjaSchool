@@ -1,0 +1,58 @@
+1- Idle: 
+	xoay, bị thương, nhảy, chạy, ngồi, tàng hình, đầu đỏ, tấn công.
+
+2- Idle khi đang lặn nước: 
+	xoay, bị thương, chạy, nhảy, tàng hình.
+
+3- Ngồi:
+	bị thương, tàng hình
+
+4- Độn thổ:
+	xoay, bị thương, tàng hình, nhảy (hủy tàng hình và nhảy)
+
+5- Tàng hình (không lặn nước):
+	xoay, bị thương, nhảy, chạy, ngồi, đầu đỏ, tấn công.
+
+6- Đầu đỏ:
+	xoay, bị thương, nhảy, chạy, ngồi, tàng hình, tấn công.
+
+==============================================================
+
+=> Combo 2:
+- Đầu đỏ + tàng hình
+- Đầu đỏ + ngồi
+- Đầu đỏ + độn thổ
+- Tàng hình + ngồi
+- tàng hình + độn thổ
+
+
+=> Combo 3:
+- Ngồi + tàng hình + đầu đỏ
+- Độn thổ + tàng hình + đầu đỏ
+
+===============================================================
+
+7- Nhảy:
+	xoay, bị thương, tàng hình, tấn công (kết thúc nhảy và tấn công sau đó rơi)
+
+8- Rơi:
+	xoay, bị thương, tàng hình, tấn công (tấn công xong thì tiếp tục rơi)
+
+9- Chạy:
+	xoay, bị thương, tàng hình, tấn công, rơi, nhảy.
+
+10- Tấn công đứng yên:
+	xoay, bị thương, tàng hình, chạy,
+	nếu trigger quái vật thì quái vật bay lên và Nhảy.
+
+11- Tấn công + chạy:
+	<<giống tấn công đứng yên>>
+
+12- Tấn công khi ở trên không (đang nhảy hoặc rơi):
+	xoay, bị thương, tàng hình.
+
+================================================================
+
+13- Bị thương hoặc chết:
+	Khóa tất cả Player Input, Cancel và khóa tất cả hành động khác,
+	Load lại Scene tại checkpoint nếu bị chết

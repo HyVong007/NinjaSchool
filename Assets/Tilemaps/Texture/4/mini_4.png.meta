@@ -1,0 +1,4944 @@
+fileFormatVersion: 2
+guid: cc29b6f23d6c1a244923be67d05a9cd8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9123916575979933754
+    second: mini_4_0
+  - first:
+      213: -2387154642352867072
+    second: mini_4_1
+  - first:
+      213: -2821960181059653096
+    second: mini_4_2
+  - first:
+      213: -726698841044523213
+    second: mini_4_3
+  - first:
+      213: -197261206583995709
+    second: mini_4_4
+  - first:
+      213: 1170963408139607851
+    second: mini_4_5
+  - first:
+      213: -1555224549136245845
+    second: mini_4_6
+  - first:
+      213: -2754964440065186212
+    second: mini_4_7
+  - first:
+      213: -657443005722670821
+    second: mini_4_8
+  - first:
+      213: 8877655732495445079
+    second: mini_4_9
+  - first:
+      213: 4872225167798049419
+    second: mini_4_10
+  - first:
+      213: -7872325584631771858
+    second: mini_4_11
+  - first:
+      213: 2751321423136666179
+    second: mini_4_12
+  - first:
+      213: -2037799092779046602
+    second: mini_4_13
+  - first:
+      213: -2822359419389535195
+    second: mini_4_14
+  - first:
+      213: -7945394980710612485
+    second: mini_4_15
+  - first:
+      213: 6012678329538920401
+    second: mini_4_16
+  - first:
+      213: 4566222772846282466
+    second: mini_4_17
+  - first:
+      213: 4170297185736993429
+    second: mini_4_18
+  - first:
+      213: -5506496841773206425
+    second: mini_4_19
+  - first:
+      213: -6476527779988616061
+    second: mini_4_20
+  - first:
+      213: -6625199756403964622
+    second: mini_4_21
+  - first:
+      213: 5990633577803986938
+    second: mini_4_22
+  - first:
+      213: -7111697626197221509
+    second: mini_4_23
+  - first:
+      213: -3618373051396741844
+    second: mini_4_24
+  - first:
+      213: 5012735752169361285
+    second: mini_4_25
+  - first:
+      213: 2946783980220592524
+    second: mini_4_26
+  - first:
+      213: 3917867760313686011
+    second: mini_4_27
+  - first:
+      213: -8666908081443796261
+    second: mini_4_28
+  - first:
+      213: -3248737235475973538
+    second: mini_4_29
+  - first:
+      213: 837687656398429923
+    second: mini_4_30
+  - first:
+      213: -6636306033941873754
+    second: mini_4_31
+  - first:
+      213: -6174118942168521958
+    second: mini_4_32
+  - first:
+      213: 6148618939421934224
+    second: mini_4_33
+  - first:
+      213: 1148319663656823073
+    second: mini_4_34
+  - first:
+      213: -3780533176209561886
+    second: mini_4_35
+  - first:
+      213: -2100136177125182097
+    second: mini_4_36
+  - first:
+      213: 1389422443858398173
+    second: mini_4_37
+  - first:
+      213: 3936724989032843632
+    second: mini_4_38
+  - first:
+      213: 6797983768443240623
+    second: mini_4_39
+  - first:
+      213: 8115065686184476916
+    second: mini_4_40
+  - first:
+      213: -8683924961019562560
+    second: mini_4_41
+  - first:
+      213: -5326928361359689120
+    second: mini_4_42
+  - first:
+      213: 5986850248476830155
+    second: mini_4_43
+  - first:
+      213: -5850548033479979765
+    second: mini_4_44
+  - first:
+      213: 3228219661228020319
+    second: mini_4_45
+  - first:
+      213: -8379238897808773506
+    second: mini_4_46
+  - first:
+      213: -9119421908868088478
+    second: mini_4_47
+  - first:
+      213: -4953223476129285529
+    second: mini_4_48
+  - first:
+      213: -7396408134558899471
+    second: mini_4_49
+  - first:
+      213: -4479255644748521472
+    second: mini_4_50
+  - first:
+      213: -6307469121566374842
+    second: mini_4_51
+  - first:
+      213: 3087925532663137404
+    second: mini_4_52
+  - first:
+      213: -7050496709327497720
+    second: mini_4_53
+  - first:
+      213: -6923207060215240591
+    second: mini_4_54
+  - first:
+      213: 6523692706439252457
+    second: mini_4_55
+  - first:
+      213: 3171219743848146804
+    second: mini_4_56
+  - first:
+      213: -8381195091297126608
+    second: mini_4_57
+  - first:
+      213: 8585124692147824041
+    second: mini_4_58
+  - first:
+      213: -7884296775339005429
+    second: mini_4_59
+  - first:
+      213: 4408859210153272428
+    second: mini_4_60
+  - first:
+      213: -4853697222241402348
+    second: mini_4_61
+  - first:
+      213: 4575679418922237372
+    second: mini_4_62
+  - first:
+      213: 216940639545699967
+    second: mini_4_63
+  - first:
+      213: 1792082967503805918
+    second: mini_4_64
+  - first:
+      213: -8720482868630475068
+    second: mini_4_65
+  - first:
+      213: -288879438196893984
+    second: mini_4_66
+  - first:
+      213: -8485301886961803420
+    second: mini_4_67
+  - first:
+      213: -7551149716060265867
+    second: mini_4_68
+  - first:
+      213: 8507728420894242468
+    second: mini_4_69
+  - first:
+      213: -4015237430144441216
+    second: mini_4_70
+  - first:
+      213: -3213246115447465268
+    second: mini_4_71
+  - first:
+      213: -3916438289960014049
+    second: mini_4_72
+  - first:
+      213: -617592879664007096
+    second: mini_4_73
+  - first:
+      213: 7781236034364087485
+    second: mini_4_74
+  - first:
+      213: -3654241303157470435
+    second: mini_4_75
+  - first:
+      213: -7297630906637446458
+    second: mini_4_76
+  - first:
+      213: 4355686994886241293
+    second: mini_4_77
+  - first:
+      213: -4304012383146644853
+    second: mini_4_78
+  - first:
+      213: 5427273473324274124
+    second: mini_4_79
+  - first:
+      213: -628591744351873144
+    second: mini_4_80
+  - first:
+      213: 927122088873690813
+    second: mini_4_81
+  - first:
+      213: -5216387734360353059
+    second: mini_4_82
+  - first:
+      213: 4275348143410261342
+    second: mini_4_83
+  - first:
+      213: -9017655670527987788
+    second: mini_4_84
+  - first:
+      213: -5175760967435648462
+    second: mini_4_85
+  - first:
+      213: 3977815522135163119
+    second: mini_4_86
+  - first:
+      213: -6971966419949989626
+    second: mini_4_87
+  - first:
+      213: 5053017696971414944
+    second: mini_4_88
+  - first:
+      213: 8941694876649561187
+    second: mini_4_89
+  - first:
+      213: 8805267336008314216
+    second: mini_4_90
+  - first:
+      213: 2088714593566536984
+    second: mini_4_91
+  - first:
+      213: -8979037957312582658
+    second: mini_4_92
+  - first:
+      213: 5661249125774263591
+    second: mini_4_93
+  - first:
+      213: 8191786252873479775
+    second: mini_4_94
+  - first:
+      213: -5973406111410581635
+    second: mini_4_95
+  - first:
+      213: -1356119337469244751
+    second: mini_4_96
+  - first:
+      213: -315511098779731268
+    second: mini_4_97
+  - first:
+      213: 1274144057100976139
+    second: mini_4_98
+  - first:
+      213: 9038211074742268337
+    second: mini_4_99
+  - first:
+      213: -6190291553891136942
+    second: mini_4_100
+  - first:
+      213: -6994716338239233793
+    second: mini_4_101
+  - first:
+      213: 3194893220693746995
+    second: mini_4_102
+  - first:
+      213: -693940512611159576
+    second: mini_4_103
+  - first:
+      213: -5863487676525527903
+    second: mini_4_104
+  - first:
+      213: 4793139897870957734
+    second: mini_4_105
+  - first:
+      213: -7048903470749813848
+    second: mini_4_106
+  - first:
+      213: 5038535563462550918
+    second: mini_4_107
+  - first:
+      213: 2917428816505103033
+    second: mini_4_108
+  - first:
+      213: -671726489689872217
+    second: mini_4_109
+  - first:
+      213: 989435754221675532
+    second: mini_4_110
+  - first:
+      213: -517478358261642140
+    second: mini_4_111
+  - first:
+      213: 8869518250147446342
+    second: mini_4_112
+  - first:
+      213: 8608419348676774360
+    second: mini_4_113
+  - first:
+      213: -332596705468496363
+    second: mini_4_114
+  - first:
+      213: 2989576436570739082
+    second: mini_4_115
+  - first:
+      213: -1821742124242149762
+    second: mini_4_116
+  - first:
+      213: 1153640631406782583
+    second: mini_4_117
+  - first:
+      213: 1921491177217126964
+    second: mini_4_118
+  - first:
+      213: -2894077696689368853
+    second: mini_4_119
+  - first:
+      213: 9098507918067257923
+    second: mini_4_120
+  - first:
+      213: -9173968665106879623
+    second: mini_4_121
+  - first:
+      213: -7425921532038480581
+    second: mini_4_122
+  - first:
+      213: -5706660882577019690
+    second: mini_4_123
+  - first:
+      213: 779216816110366332
+    second: mini_4_124
+  - first:
+      213: -4650057844432828022
+    second: mini_4_125
+  - first:
+      213: 6367064906466192248
+    second: mini_4_126
+  - first:
+      213: 4896871293392956235
+    second: mini_4_127
+  - first:
+      213: -106416050749066675
+    second: mini_4_128
+  - first:
+      213: -1957775976626611230
+    second: mini_4_129
+  - first:
+      213: 7477277501311657913
+    second: mini_4_130
+  - first:
+      213: -5378246046519924654
+    second: mini_4_131
+  - first:
+      213: -2850476438509147507
+    second: mini_4_132
+  - first:
+      213: -687785660855121965
+    second: mini_4_133
+  - first:
+      213: 7969614723726458292
+    second: mini_4_134
+  - first:
+      213: -2880319764136091836
+    second: mini_4_135
+  - first:
+      213: 148852106457814550
+    second: mini_4_136
+  - first:
+      213: 3820508544586892893
+    second: mini_4_137
+  - first:
+      213: 705407547909408294
+    second: mini_4_138
+  - first:
+      213: 2203405434854845943
+    second: mini_4_139
+  - first:
+      213: 7113421070856131326
+    second: mini_4_140
+  - first:
+      213: 168715796612920219
+    second: mini_4_141
+  - first:
+      213: -623505099255250599
+    second: mini_4_142
+  - first:
+      213: 1390505077212448495
+    second: mini_4_143
+  - first:
+      213: 8054386575151623020
+    second: mini_4_144
+  - first:
+      213: 141828575744046280
+    second: mini_4_145
+  - first:
+      213: 468432791810295558
+    second: mini_4_146
+  - first:
+      213: 3515186727172807831
+    second: mini_4_147
+  - first:
+      213: -1090495134085026710
+    second: mini_4_148
+  - first:
+      213: -2183517515773378284
+    second: mini_4_149
+  - first:
+      213: 310144011412121426
+    second: mini_4_150
+  - first:
+      213: -5294732151768524381
+    second: mini_4_151
+  - first:
+      213: 4097320143149859495
+    second: mini_4_152
+  - first:
+      213: 4364381101188486882
+    second: mini_4_153
+  - first:
+      213: -499635431127202232
+    second: mini_4_154
+  - first:
+      213: -3640643524353132338
+    second: mini_4_155
+  - first:
+      213: -6525307341917674837
+    second: mini_4_156
+  - first:
+      213: 6629997748939180365
+    second: mini_4_157
+  - first:
+      213: -4579247849585525113
+    second: mini_4_158
+  - first:
+      213: 480780348891998468
+    second: mini_4_159
+  - first:
+      213: 4058410728585974033
+    second: mini_4_160
+  - first:
+      213: 3802409509863389076
+    second: mini_4_161
+  - first:
+      213: -6097011133550904415
+    second: mini_4_162
+  - first:
+      213: -1853256654948112336
+    second: mini_4_163
+  - first:
+      213: -4593437922076719953
+    second: mini_4_164
+  - first:
+      213: 7399238924487664175
+    second: mini_4_165
+  - first:
+      213: -4465752494349244042
+    second: mini_4_166
+  - first:
+      213: -7577992523592345607
+    second: mini_4_167
+  - first:
+      213: 2051016489382887521
+    second: mini_4_168
+  - first:
+      213: -6433232182967689649
+    second: mini_4_169
+  - first:
+      213: 4452633575540794725
+    second: mini_4_170
+  - first:
+      213: -7284393754998035669
+    second: mini_4_171
+  - first:
+      213: 7216268982186237996
+    second: mini_4_172
+  - first:
+      213: -4966970251398389377
+    second: mini_4_173
+  - first:
+      213: -3800260143251611147
+    second: mini_4_174
+  - first:
+      213: 7389698220904371434
+    second: mini_4_175
+  - first:
+      213: 849483344998563674
+    second: mini_4_176
+  - first:
+      213: 8563443462801968657
+    second: mini_4_177
+  - first:
+      213: 3532800748812763227
+    second: mini_4_178
+  - first:
+      213: -3628743556143672703
+    second: mini_4_179
+  - first:
+      213: 8066522463690174335
+    second: mini_4_180
+  - first:
+      213: -4220377200720742369
+    second: mini_4_181
+  - first:
+      213: -288769384233755682
+    second: mini_4_182
+  - first:
+      213: -7623878055200290365
+    second: mini_4_183
+  - first:
+      213: 1906141897647334429
+    second: mini_4_184
+  - first:
+      213: 7257689957876088945
+    second: mini_4_185
+  - first:
+      213: 6623552778530416606
+    second: mini_4_186
+  - first:
+      213: -2409939999252437270
+    second: mini_4_187
+  - first:
+      213: -7640005951452476768
+    second: mini_4_188
+  - first:
+      213: 2827177111470241941
+    second: mini_4_189
+  - first:
+      213: 5744399257120723806
+    second: mini_4_190
+  - first:
+      213: -6863109671605836468
+    second: mini_4_191
+  - first:
+      213: 4108325060483565173
+    second: mini_4_192
+  - first:
+      213: 2865552436853594234
+    second: mini_4_193
+  - first:
+      213: -1753394645912320431
+    second: mini_4_194
+  - first:
+      213: -402538415973939233
+    second: mini_4_195
+  - first:
+      213: 6917186553452953060
+    second: mini_4_196
+  - first:
+      213: 8478278500663939414
+    second: mini_4_197
+  - first:
+      213: -3144939648028549283
+    second: mini_4_198
+  - first:
+      213: 658881167047974860
+    second: mini_4_199
+  - first:
+      213: -205584368213080527
+    second: mini_4_200
+  - first:
+      213: -4841210059827963625
+    second: mini_4_201
+  - first:
+      213: 4607343985642321287
+    second: mini_4_202
+  - first:
+      213: -2449088290347739327
+    second: mini_4_203
+  - first:
+      213: -693350988042937380
+    second: mini_4_204
+  - first:
+      213: -9039122847718621735
+    second: mini_4_205
+  - first:
+      213: 6853780524677929263
+    second: mini_4_206
+  - first:
+      213: -6977263315464385569
+    second: mini_4_207
+  - first:
+      213: -4728712493156613569
+    second: mini_4_208
+  - first:
+      213: 6262157224590930349
+    second: mini_4_209
+  - first:
+      213: -4908256384822470342
+    second: mini_4_210
+  - first:
+      213: -793817585513661175
+    second: mini_4_211
+  - first:
+      213: 6623930894070268492
+    second: mini_4_212
+  - first:
+      213: -6374129552001623292
+    second: mini_4_213
+  - first:
+      213: 2879273492025268075
+    second: mini_4_214
+  - first:
+      213: 4868033564815322250
+    second: mini_4_215
+  - first:
+      213: -4579721666268261987
+    second: mini_4_216
+  - first:
+      213: 2340197662223413608
+    second: mini_4_217
+  - first:
+      213: -3794024530509718722
+    second: mini_4_218
+  - first:
+      213: 2337115258574981371
+    second: mini_4_219
+  - first:
+      213: -9015082470801586097
+    second: mini_4_220
+  - first:
+      213: -6621682921873796782
+    second: mini_4_221
+  - first:
+      213: 3962750345516141826
+    second: mini_4_222
+  - first:
+      213: -4561898904438197908
+    second: mini_4_223
+  - first:
+      213: -2303805200215888252
+    second: mini_4_224
+  - first:
+      213: 2043441293784734131
+    second: mini_4_225
+  - first:
+      213: 1004140706836414009
+    second: mini_4_226
+  - first:
+      213: 7306671543960535640
+    second: mini_4_227
+  - first:
+      213: 5101026024742207851
+    second: mini_4_228
+  - first:
+      213: 8910316443907943355
+    second: mini_4_229
+  - first:
+      213: 9174916592924831669
+    second: mini_4_230
+  - first:
+      213: -5615547843091191894
+    second: mini_4_231
+  - first:
+      213: 6064900747423984102
+    second: mini_4_232
+  - first:
+      213: -7949982310275115427
+    second: mini_4_233
+  - first:
+      213: 188638302174080191
+    second: mini_4_234
+  - first:
+      213: -3473421044749334396
+    second: mini_4_235
+  - first:
+      213: -7790154787877703878
+    second: mini_4_236
+  - first:
+      213: 7025018715238815377
+    second: mini_4_237
+  - first:
+      213: -6190662473958719498
+    second: mini_4_238
+  - first:
+      213: -2728972806171083229
+    second: mini_4_239
+  - first:
+      213: -4947954783927358334
+    second: mini_4_240
+  - first:
+      213: -1613506218419747745
+    second: mini_4_241
+  - first:
+      213: -4382558098136564317
+    second: mini_4_242
+  - first:
+      213: 1638413954750948567
+    second: mini_4_243
+  - first:
+      213: 3554090582705892676
+    second: mini_4_244
+  - first:
+      213: 642254515461206233
+    second: mini_4_245
+  - first:
+      213: -5609144758889430226
+    second: mini_4_246
+  - first:
+      213: 324035503138474544
+    second: mini_4_247
+  - first:
+      213: -2936421921414254395
+    second: mini_4_248
+  - first:
+      213: 8175309885149742316
+    second: mini_4_249
+  - first:
+      213: -7716249832549996379
+    second: mini_4_250
+  - first:
+      213: 39686443055977165
+    second: mini_4_251
+  - first:
+      213: 7709810211827930006
+    second: mini_4_252
+  - first:
+      213: -277493308098627562
+    second: mini_4_253
+  - first:
+      213: 8381839888875066561
+    second: mini_4_254
+  - first:
+      213: -1280319737549024704
+    second: mini_4_255
+  - first:
+      213: -1211332671919957411
+    second: mini_4_256
+  - first:
+      213: 3489741935452767769
+    second: mini_4_257
+  - first:
+      213: 5640746043487392158
+    second: mini_4_258
+  - first:
+      213: 1679361084736477084
+    second: mini_4_259
+  - first:
+      213: -5009826868634880083
+    second: mini_4_260
+  - first:
+      213: 4175084446667205052
+    second: mini_4_261
+  - first:
+      213: -2980377606790443004
+    second: mini_4_262
+  - first:
+      213: -7936342401954360191
+    second: mini_4_263
+  - first:
+      213: 8285748456235334453
+    second: mini_4_264
+  - first:
+      213: 8217074153701881079
+    second: mini_4_265
+  - first:
+      213: -5919713354969015940
+    second: mini_4_266
+  - first:
+      213: 4577590731759599543
+    second: mini_4_267
+  - first:
+      213: 694527244916750877
+    second: mini_4_268
+  - first:
+      213: -2858620721373683598
+    second: mini_4_269
+  - first:
+      213: -8776617204959305914
+    second: mini_4_270
+  - first:
+      213: -1731850245702953233
+    second: mini_4_271
+  - first:
+      213: -3746092711804159530
+    second: mini_4_272
+  - first:
+      213: 5839595434411949042
+    second: mini_4_273
+  - first:
+      213: -6542607216165788541
+    second: mini_4_274
+  - first:
+      213: 8949479895528434773
+    second: mini_4_275
+  - first:
+      213: 2811720247473758731
+    second: mini_4_276
+  - first:
+      213: 3926623716777300522
+    second: mini_4_277
+  - first:
+      213: -228611583909127046
+    second: mini_4_278
+  - first:
+      213: -4851531092518731557
+    second: mini_4_279
+  - first:
+      213: 285639315884218241
+    second: mini_4_280
+  - first:
+      213: -996823108164871638
+    second: mini_4_281
+  - first:
+      213: -6977284765568184637
+    second: mini_4_282
+  - first:
+      213: 93763231329056516
+    second: mini_4_283
+  - first:
+      213: 7898838619444274516
+    second: mini_4_284
+  - first:
+      213: 5819799051645024488
+    second: mini_4_285
+  - first:
+      213: 7348350081914309709
+    second: mini_4_286
+  - first:
+      213: -7206007777921977838
+    second: mini_4_287
+  - first:
+      213: -484617335147696150
+    second: mini_4_288
+  - first:
+      213: -7290860152089104387
+    second: mini_4_289
+  - first:
+      213: -7574472478680757630
+    second: mini_4_290
+  - first:
+      213: -2263351214164546585
+    second: mini_4_291
+  - first:
+      213: -9078603203623057578
+    second: mini_4_292
+  - first:
+      213: 1642377650898204258
+    second: mini_4_293
+  - first:
+      213: 1718514347639135453
+    second: mini_4_294
+  - first:
+      213: 230318395381949977
+    second: mini_4_295
+  - first:
+      213: -2704780554522539576
+    second: mini_4_296
+  - first:
+      213: 3846208681485819151
+    second: mini_4_297
+  - first:
+      213: -2783942630199649866
+    second: mini_4_298
+  - first:
+      213: 7401282212039888598
+    second: mini_4_299
+  - first:
+      213: 5150052956478522597
+    second: mini_4_300
+  - first:
+      213: -4604972513871554357
+    second: mini_4_301
+  - first:
+      213: 337505485911830290
+    second: mini_4_302
+  - first:
+      213: -7985257789891447637
+    second: mini_4_303
+  - first:
+      213: -7356173972252780773
+    second: mini_4_304
+  - first:
+      213: -6285466586751870086
+    second: mini_4_305
+  - first:
+      213: -4169918924081148241
+    second: mini_4_306
+  - first:
+      213: 6304090226622101537
+    second: mini_4_307
+  - first:
+      213: -1856758132757127797
+    second: mini_4_308
+  - first:
+      213: -1035068769019314693
+    second: mini_4_309
+  - first:
+      213: 5731537431892059144
+    second: mini_4_310
+  - first:
+      213: 8640423699326965530
+    second: mini_4_311
+  - first:
+      213: -4924398536533053294
+    second: mini_4_312
+  - first:
+      213: -2518445160038085269
+    second: mini_4_313
+  - first:
+      213: 2135123450733211828
+    second: mini_4_314
+  - first:
+      213: -1061122114165790445
+    second: mini_4_315
+  - first:
+      213: 6553826590800303262
+    second: mini_4_316
+  - first:
+      213: -8069901183571044444
+    second: mini_4_317
+  - first:
+      213: 8825578733568923396
+    second: mini_4_318
+  - first:
+      213: 3704308992068923052
+    second: mini_4_319
+  - first:
+      213: 4799056696726789464
+    second: mini_4_320
+  - first:
+      213: -4165135482559933618
+    second: mini_4_321
+  - first:
+      213: 6910328586907743058
+    second: mini_4_322
+  - first:
+      213: -8894024155846683984
+    second: mini_4_323
+  - first:
+      213: 69850950312890729
+    second: mini_4_324
+  - first:
+      213: -5458061512268489178
+    second: mini_4_325
+  - first:
+      213: 6532394910993979689
+    second: mini_4_326
+  - first:
+      213: 3981968845692677554
+    second: mini_4_327
+  - first:
+      213: 7083365905400429195
+    second: mini_4_328
+  - first:
+      213: 1097809560729743577
+    second: mini_4_329
+  - first:
+      213: 5985319024768067407
+    second: mini_4_330
+  - first:
+      213: -4746657411405455082
+    second: mini_4_331
+  - first:
+      213: 6263067782988885984
+    second: mini_4_332
+  - first:
+      213: -1687114870696345644
+    second: mini_4_333
+  - first:
+      213: -3393957382544626729
+    second: mini_4_334
+  - first:
+      213: 6455869037027042021
+    second: mini_4_335
+  - first:
+      213: 4699738162160705826
+    second: mini_4_336
+  - first:
+      213: 8975752080714691980
+    second: mini_4_337
+  - first:
+      213: 6451860620815497405
+    second: mini_4_338
+  - first:
+      213: 7486787937753240184
+    second: mini_4_339
+  - first:
+      213: -7603317210898191289
+    second: mini_4_340
+  - first:
+      213: -6070099034168948714
+    second: mini_4_341
+  - first:
+      213: -5543253214370231411
+    second: mini_4_342
+  - first:
+      213: -8487180033604438400
+    second: mini_4_343
+  - first:
+      213: 8892404268759438100
+    second: mini_4_344
+  - first:
+      213: 3420118192128151620
+    second: mini_4_345
+  - first:
+      213: 1814456574161540491
+    second: mini_4_346
+  - first:
+      213: -3005220456401549590
+    second: mini_4_347
+  - first:
+      213: 1795705624450175845
+    second: mini_4_348
+  - first:
+      213: -6374329738123141033
+    second: mini_4_349
+  - first:
+      213: -6667282388392449905
+    second: mini_4_350
+  - first:
+      213: -3816608826682540532
+    second: mini_4_351
+  - first:
+      213: 39545746317184981
+    second: mini_4_352
+  - first:
+      213: -535111594842718468
+    second: mini_4_353
+  - first:
+      213: -3692581523517676771
+    second: mini_4_354
+  - first:
+      213: 6971058888952278549
+    second: mini_4_355
+  - first:
+      213: -2626472017215100923
+    second: mini_4_356
+  - first:
+      213: -62778850688781358
+    second: mini_4_357
+  - first:
+      213: -8064643771187107686
+    second: mini_4_358
+  - first:
+      213: -4781658353942707185
+    second: mini_4_359
+  - first:
+      213: -28083989678123217
+    second: mini_4_360
+  - first:
+      213: 3296414760353590878
+    second: mini_4_361
+  - first:
+      213: 6182200885887180275
+    second: mini_4_362
+  - first:
+      213: -7355090283194072320
+    second: mini_4_363
+  - first:
+      213: -1339458610938180646
+    second: mini_4_364
+  - first:
+      213: 4142135757330571708
+    second: mini_4_365
+  - first:
+      213: -3313051309244890343
+    second: mini_4_366
+  - first:
+      213: -8560357971470718247
+    second: mini_4_367
+  - first:
+      213: -970771024577225975
+    second: mini_4_368
+  - first:
+      213: -8410897637773574958
+    second: mini_4_369
+  - first:
+      213: -7673419912454631444
+    second: mini_4_370
+  - first:
+      213: -2010302980291462824
+    second: mini_4_371
+  - first:
+      213: 4762910894533837404
+    second: mini_4_372
+  - first:
+      213: 329747695344617635
+    second: mini_4_373
+  - first:
+      213: -2424818113847875704
+    second: mini_4_374
+  - first:
+      213: 8898250663492950810
+    second: mini_4_375
+  - first:
+      213: -215478431924353629
+    second: mini_4_376
+  - first:
+      213: 721433352724004321
+    second: mini_4_377
+  - first:
+      213: -4148217099524420936
+    second: mini_4_378
+  - first:
+      213: -8252987552611101907
+    second: mini_4_379
+  - first:
+      213: 1832459852857298786
+    second: mini_4_380
+  - first:
+      213: 8752930935926866928
+    second: mini_4_381
+  - first:
+      213: -6099577637106858913
+    second: mini_4_382
+  - first:
+      213: -9013383462866962144
+    second: mini_4_383
+  - first:
+      213: 8670727210890797956
+    second: mini_4_384
+  - first:
+      213: -6958549469902883911
+    second: mini_4_385
+  - first:
+      213: 9009759499127188678
+    second: mini_4_386
+  - first:
+      213: 7137248884838854468
+    second: mini_4_387
+  - first:
+      213: -188914652407371277
+    second: mini_4_388
+  - first:
+      213: -1407009642279535871
+    second: mini_4_389
+  - first:
+      213: 369324175457796490
+    second: mini_4_390
+  - first:
+      213: -4922991200809479311
+    second: mini_4_391
+  - first:
+      213: -3845712156341832123
+    second: mini_4_392
+  - first:
+      213: 276910824345748009
+    second: mini_4_393
+  - first:
+      213: -4656358281685486186
+    second: mini_4_394
+  - first:
+      213: 7940247936920048503
+    second: mini_4_395
+  - first:
+      213: 4150040365744773351
+    second: mini_4_396
+  - first:
+      213: 1160774998569794896
+    second: mini_4_397
+  - first:
+      213: -8506813684515312865
+    second: mini_4_398
+  - first:
+      213: -2551233092155072594
+    second: mini_4_399
+  - first:
+      213: 1796809334978260918
+    second: mini_4_400
+  - first:
+      213: -4975567137455456963
+    second: mini_4_401
+  - first:
+      213: 4539129401916854491
+    second: mini_4_402
+  - first:
+      213: 7149454964495365170
+    second: mini_4_403
+  - first:
+      213: -5891835026376556130
+    second: mini_4_404
+  - first:
+      213: -3687130346896232070
+    second: mini_4_405
+  - first:
+      213: -6874595668710189998
+    second: mini_4_406
+  - first:
+      213: -4879110943153288118
+    second: mini_4_407
+  - first:
+      213: -7306202444408275113
+    second: mini_4_408
+  - first:
+      213: -7776689039432037943
+    second: mini_4_409
+  - first:
+      213: -6863082678107140902
+    second: mini_4_410
+  - first:
+      213: -4332159909893880856
+    second: mini_4_411
+  - first:
+      213: 2905445755715809156
+    second: mini_4_412
+  - first:
+      213: 6099335363955102470
+    second: mini_4_413
+  - first:
+      213: -7141568861235105787
+    second: mini_4_414
+  - first:
+      213: -468320067900461198
+    second: mini_4_415
+  - first:
+      213: -1587951624881105783
+    second: mini_4_416
+  - first:
+      213: 2612141419424260240
+    second: mini_4_417
+  - first:
+      213: 4642116909199245566
+    second: mini_4_418
+  - first:
+      213: -6008845348108312543
+    second: mini_4_419
+  - first:
+      213: 4788134765730338205
+    second: mini_4_420
+  - first:
+      213: -1909117233586853751
+    second: mini_4_421
+  - first:
+      213: 2049867662263179774
+    second: mini_4_422
+  - first:
+      213: -8723968860187451096
+    second: mini_4_423
+  - first:
+      213: -5155531617371960385
+    second: mini_4_424
+  - first:
+      213: 6715011478904068880
+    second: mini_4_425
+  - first:
+      213: 3940509942329732428
+    second: mini_4_426
+  - first:
+      213: -4543552424021357886
+    second: mini_4_427
+  - first:
+      213: 4028276178738793240
+    second: mini_4_428
+  - first:
+      213: -7817070666606001534
+    second: mini_4_429
+  - first:
+      213: -1110241298517189327
+    second: mini_4_430
+  - first:
+      213: -5594441950909765591
+    second: mini_4_431
+  - first:
+      213: -3847662600283288208
+    second: mini_4_432
+  - first:
+      213: -7941783594246231539
+    second: mini_4_433
+  - first:
+      213: 9041041022690375188
+    second: mini_4_434
+  - first:
+      213: -8142097680177106375
+    second: mini_4_435
+  - first:
+      213: -1301149176997067917
+    second: mini_4_436
+  - first:
+      213: 7595409557561043745
+    second: mini_4_437
+  - first:
+      213: -2480438497363821604
+    second: mini_4_438
+  - first:
+      213: 6716803445465584899
+    second: mini_4_439
+  - first:
+      213: 5309842944832064627
+    second: mini_4_440
+  - first:
+      213: 7848359290964093355
+    second: mini_4_441
+  - first:
+      213: 1548730732700607295
+    second: mini_4_442
+  - first:
+      213: 250223184396402236
+    second: mini_4_443
+  - first:
+      213: -4482448250602152699
+    second: mini_4_444
+  - first:
+      213: 6391662702180321594
+    second: mini_4_445
+  - first:
+      213: 5198249352885941549
+    second: mini_4_446
+  - first:
+      213: 7775031156154507600
+    second: mini_4_447
+  - first:
+      213: 8738398453415433611
+    second: mini_4_448
+  - first:
+      213: 5954515979133152465
+    second: mini_4_449
+  - first:
+      213: -8085728200598277621
+    second: mini_4_450
+  - first:
+      213: 4691609260773927778
+    second: mini_4_451
+  - first:
+      213: -7078036546104093874
+    second: mini_4_452
+  - first:
+      213: 5569570739887384354
+    second: mini_4_453
+  - first:
+      213: 456967391589138123
+    second: mini_4_454
+  - first:
+      213: -1681100765620379131
+    second: mini_4_455
+  - first:
+      213: -9173169952491098359
+    second: mini_4_456
+  - first:
+      213: -8907962155853751709
+    second: mini_4_457
+  - first:
+      213: -1824933275009926880
+    second: mini_4_458
+  - first:
+      213: 4648088574863187977
+    second: mini_4_459
+  - first:
+      213: 805016900441013358
+    second: mini_4_460
+  - first:
+      213: -75118471463468927
+    second: mini_4_461
+  - first:
+      213: 2819968357684881256
+    second: mini_4_462
+  - first:
+      213: 4039484776603377144
+    second: mini_4_463
+  - first:
+      213: -8074138647926633462
+    second: mini_4_464
+  - first:
+      213: 7559779677387630922
+    second: mini_4_465
+  - first:
+      213: 6052740790529501093
+    second: mini_4_466
+  - first:
+      213: 3954539688635718086
+    second: mini_4_467
+  - first:
+      213: -1972991397054659323
+    second: mini_4_468
+  - first:
+      213: 3994859305107308459
+    second: mini_4_469
+  - first:
+      213: 2247882360346132081
+    second: mini_4_470
+  - first:
+      213: -277123994167260360
+    second: mini_4_471
+  - first:
+      213: 2617384300853409891
+    second: mini_4_472
+  - first:
+      213: 2074717621896963798
+    second: mini_4_473
+  - first:
+      213: 9107181261205947717
+    second: mini_4_474
+  - first:
+      213: 1090383075946738456
+    second: mini_4_475
+  - first:
+      213: 6207271561097918075
+    second: mini_4_476
+  - first:
+      213: 5338424435958137806
+    second: mini_4_477
+  - first:
+      213: 1740853676645827615
+    second: mini_4_478
+  - first:
+      213: -2240389486540622832
+    second: mini_4_479
+  - first:
+      213: -7693889607763166285
+    second: mini_4_480
+  - first:
+      213: 7662535086884021582
+    second: mini_4_481
+  - first:
+      213: 6029918012474740030
+    second: mini_4_482
+  - first:
+      213: -5338971677849374229
+    second: mini_4_483
+  - first:
+      213: 1299134156410677274
+    second: mini_4_484
+  - first:
+      213: -2114246169196549514
+    second: mini_4_485
+  - first:
+      213: -6524011391274141151
+    second: mini_4_486
+  - first:
+      213: 4719912624844820685
+    second: mini_4_487
+  - first:
+      213: 4415112964716809180
+    second: mini_4_488
+  - first:
+      213: -7782621093907294399
+    second: mini_4_489
+  - first:
+      213: 1701982708462182362
+    second: mini_4_490
+  - first:
+      213: -8022923778012647679
+    second: mini_4_491
+  - first:
+      213: -7963353518382515746
+    second: mini_4_492
+  - first:
+      213: 5684933748505018479
+    second: mini_4_493
+  - first:
+      213: -3015223094147821827
+    second: mini_4_494
+  - first:
+      213: 1713158780235639944
+    second: mini_4_495
+  - first:
+      213: -8307312813966991070
+    second: mini_4_496
+  - first:
+      213: -5500039285674839853
+    second: mini_4_497
+  - first:
+      213: 7286801182969065009
+    second: mini_4_498
+  - first:
+      213: -8412373974837939171
+    second: mini_4_499
+  - first:
+      213: 3225669893758738209
+    second: mini_4_500
+  - first:
+      213: 4512244499094707955
+    second: mini_4_501
+  - first:
+      213: 466153458462780720
+    second: mini_4_502
+  - first:
+      213: 4795860025896018422
+    second: mini_4_503
+  - first:
+      213: -9171443628074954003
+    second: mini_4_504
+  - first:
+      213: -8015282755612615577
+    second: mini_4_505
+  - first:
+      213: 4932591501073138811
+    second: mini_4_506
+  - first:
+      213: -1380084512029119615
+    second: mini_4_507
+  - first:
+      213: -779163414198533384
+    second: mini_4_508
+  - first:
+      213: -5663680380771134252
+    second: mini_4_509
+  - first:
+      213: -8672508608808881508
+    second: mini_4_510
+  - first:
+      213: -2496023610691240935
+    second: mini_4_511
+  - first:
+      213: 9037865378728020284
+    second: mini_4_512
+  - first:
+      213: 4589567575171692673
+    second: mini_4_513
+  - first:
+      213: -4825512208947181774
+    second: mini_4_514
+  - first:
+      213: -5300811163897577016
+    second: mini_4_515
+  - first:
+      213: 1160533713543593084
+    second: mini_4_516
+  - first:
+      213: 5374807604043051229
+    second: mini_4_517
+  - first:
+      213: -861942420831330503
+    second: mini_4_518
+  - first:
+      213: 7038311344643324312
+    second: mini_4_519
+  - first:
+      213: -7413336786092361193
+    second: mini_4_520
+  - first:
+      213: -5889573535798600474
+    second: mini_4_521
+  - first:
+      213: 3583900394352604134
+    second: mini_4_522
+  - first:
+      213: -7102537509624640364
+    second: mini_4_523
+  - first:
+      213: 1960087567630441841
+    second: mini_4_524
+  - first:
+      213: -5198596335645393265
+    second: mini_4_525
+  - first:
+      213: -2305866958679222345
+    second: mini_4_526
+  - first:
+      213: 3271839370631158657
+    second: mini_4_527
+  - first:
+      213: 8886225929373053721
+    second: mini_4_528
+  - first:
+      213: -4326970448418388919
+    second: mini_4_529
+  - first:
+      213: 5687198906048727608
+    second: mini_4_530
+  - first:
+      213: 8880603687475679799
+    second: mini_4_531
+  - first:
+      213: -4805657541327305973
+    second: mini_4_532
+  - first:
+      213: 8786666555638440153
+    second: mini_4_533
+  - first:
+      213: -2242463959871580779
+    second: mini_4_534
+  - first:
+      213: -1469767472992272031
+    second: mini_4_535
+  - first:
+      213: -5878047778464866354
+    second: mini_4_536
+  - first:
+      213: 667681219634956676
+    second: mini_4_537
+  - first:
+      213: -2282932197993617433
+    second: mini_4_538
+  - first:
+      213: -2542755596384503189
+    second: mini_4_539
+  - first:
+      213: 1279914503420214128
+    second: mini_4_540
+  - first:
+      213: 6544161189608696878
+    second: mini_4_541
+  - first:
+      213: 7663673226200371754
+    second: mini_4_542
+  - first:
+      213: 3075740928338388781
+    second: mini_4_543
+  - first:
+      213: -1299299857038710146
+    second: mini_4_544
+  - first:
+      213: -7651481579253009928
+    second: mini_4_545
+  - first:
+      213: 7777737645476011071
+    second: mini_4_546
+  - first:
+      213: 5619001693178321611
+    second: mini_4_547
+  - first:
+      213: 8940609781502632422
+    second: mini_4_548
+  - first:
+      213: 7845216337465515584
+    second: mini_4_549
+  - first:
+      213: 1711219349736203459
+    second: mini_4_550
+  - first:
+      213: 8015920250972164350
+    second: mini_4_551
+  - first:
+      213: 5413183475206648837
+    second: mini_4_552
+  - first:
+      213: -4085075385385156637
+    second: mini_4_553
+  - first:
+      213: -368365976221518432
+    second: mini_4_554
+  - first:
+      213: -4552424862028549304
+    second: mini_4_555
+  - first:
+      213: -3723441231332908923
+    second: mini_4_556
+  - first:
+      213: 5257934312128200771
+    second: mini_4_557
+  - first:
+      213: -4157649507714583367
+    second: mini_4_558
+  - first:
+      213: 6458258845707381283
+    second: mini_4_559
+  - first:
+      213: -6169854368299605770
+    second: mini_4_560
+  - first:
+      213: 2936118581623361815
+    second: mini_4_561
+  - first:
+      213: 5188971509068676913
+    second: mini_4_562
+  - first:
+      213: 9202764937239638762
+    second: mini_4_563
+  - first:
+      213: -5303289551675232521
+    second: mini_4_564
+  - first:
+      213: 2450880405258076065
+    second: mini_4_565
+  - first:
+      213: -3147054411029128788
+    second: mini_4_566
+  - first:
+      213: 6313777318249754238
+    second: mini_4_567
+  - first:
+      213: -8228735795105313342
+    second: mini_4_568
+  - first:
+      213: -8329034655004396591
+    second: mini_4_569
+  - first:
+      213: -4962265490811700144
+    second: mini_4_570
+  - first:
+      213: 1841031525342707737
+    second: mini_4_571
+  - first:
+      213: 2421462963000627345
+    second: mini_4_572
+  - first:
+      213: -7202856680571689601
+    second: mini_4_573
+  - first:
+      213: 4762445206403152883
+    second: mini_4_574
+  - first:
+      213: 2264439685949248644
+    second: mini_4_575
+  - first:
+      213: -1406252802277389618
+    second: mini_4_576
+  - first:
+      213: 226849500189534580
+    second: mini_4_577
+  - first:
+      213: 5921321184439687343
+    second: mini_4_578
+  - first:
+      213: -4074502996847576769
+    second: mini_4_579
+  - first:
+      213: 5688071626708754949
+    second: mini_4_580
+  - first:
+      213: -7209407246698440496
+    second: mini_4_581
+  - first:
+      213: -8878652332296772242
+    second: mini_4_582
+  - first:
+      213: 2084886556065903155
+    second: mini_4_583
+  - first:
+      213: 8440814401655861953
+    second: mini_4_584
+  - first:
+      213: 7750468275033666969
+    second: mini_4_585
+  - first:
+      213: 8333628251865636659
+    second: mini_4_586
+  - first:
+      213: 2293648968900077096
+    second: mini_4_587
+  - first:
+      213: 1230910675779945337
+    second: mini_4_588
+  - first:
+      213: 5190383277830780250
+    second: mini_4_589
+  - first:
+      213: -7309889893289826424
+    second: mini_4_590
+  - first:
+      213: 6498525906151430107
+    second: mini_4_591
+  - first:
+      213: -28075977238990895
+    second: mini_4_592
+  - first:
+      213: -5694623600501403688
+    second: mini_4_593
+  - first:
+      213: -2494166457180586006
+    second: mini_4_594
+  - first:
+      213: 4771614865288544537
+    second: mini_4_595
+  - first:
+      213: 7349879883208538775
+    second: mini_4_596
+  - first:
+      213: 8944518406213290601
+    second: mini_4_597
+  - first:
+      213: -4641956281570931197
+    second: mini_4_598
+  - first:
+      213: 1821439164608676956
+    second: mini_4_599
+  - first:
+      213: -5204137348247652524
+    second: mini_4_600
+  - first:
+      213: -8072694147687130847
+    second: mini_4_601
+  - first:
+      213: 6828542698818451079
+    second: mini_4_602
+  - first:
+      213: 7030487428841211524
+    second: mini_4_603
+  - first:
+      213: 5940204569132814067
+    second: mini_4_604
+  - first:
+      213: 2475017518241483056
+    second: mini_4_605
+  - first:
+      213: 839677943791685569
+    second: mini_4_606
+  - first:
+      213: 1307570406122486207
+    second: mini_4_607
+  - first:
+      213: -6217626278144210986
+    second: mini_4_608
+  - first:
+      213: -2261620941663375577
+    second: mini_4_609
+  - first:
+      213: 1902383931457361226
+    second: mini_4_610
+  - first:
+      213: -3393196019839342825
+    second: mini_4_611
+  - first:
+      213: 1226060729024211695
+    second: mini_4_612
+  - first:
+      213: -499083405704283721
+    second: mini_4_613
+  - first:
+      213: -1131698364805019532
+    second: mini_4_614
+  - first:
+      213: -6774654054517816975
+    second: mini_4_615
+  - first:
+      213: 1033186261866631941
+    second: mini_4_616
+  - first:
+      213: 3384284242059864608
+    second: mini_4_617
+  - first:
+      213: 5008098335787765259
+    second: mini_4_618
+  - first:
+      213: -7064557722855077346
+    second: mini_4_619
+  - first:
+      213: 4457899366413890600
+    second: mini_4_620
+  - first:
+      213: -1226414443953640686
+    second: mini_4_621
+  - first:
+      213: -3536072672397568382
+    second: mini_4_622
+  - first:
+      213: -4567128282004745825
+    second: mini_4_623
+  - first:
+      213: 751829889888105764
+    second: mini_4_624
+  - first:
+      213: -8581548958986575114
+    second: mini_4_625
+  - first:
+      213: -2606592662273706191
+    second: mini_4_626
+  - first:
+      213: -3492473028164362532
+    second: mini_4_627
+  - first:
+      213: -3280590378490328478
+    second: mini_4_628
+  - first:
+      213: -2394064677281235732
+    second: mini_4_629
+  - first:
+      213: -5495036169021454494
+    second: mini_4_630
+  - first:
+      213: 5517647113597534616
+    second: mini_4_631
+  - first:
+      213: -2506988383884761261
+    second: mini_4_632
+  - first:
+      213: 395479168869253757
+    second: mini_4_633
+  - first:
+      213: 1670839899398187348
+    second: mini_4_634
+  - first:
+      213: 9118796188612511462
+    second: mini_4_635
+  - first:
+      213: -5373846110656583284
+    second: mini_4_636
+  - first:
+      213: -5624921488263251210
+    second: mini_4_637
+  - first:
+      213: 594160929799348502
+    second: mini_4_638
+  - first:
+      213: -6011182778924947160
+    second: mini_4_639
+  - first:
+      213: -2488718936139016140
+    second: mini_4_640
+  - first:
+      213: 5282431465518181598
+    second: mini_4_641
+  - first:
+      213: 2573444555416777250
+    second: mini_4_642
+  - first:
+      213: -1268844558316070757
+    second: mini_4_643
+  - first:
+      213: -6938893497025258941
+    second: mini_4_644
+  - first:
+      213: -2373308041945106639
+    second: mini_4_645
+  - first:
+      213: 7453644820855841322
+    second: mini_4_646
+  - first:
+      213: -1241612907412116565
+    second: mini_4_647
+  - first:
+      213: -5314516562399178334
+    second: mini_4_648
+  - first:
+      213: -5957748378433426673
+    second: mini_4_649
+  - first:
+      213: 1584035944937674890
+    second: mini_4_650
+  - first:
+      213: 5024765024647607071
+    second: mini_4_651
+  - first:
+      213: 7729111855297473928
+    second: mini_4_652
+  - first:
+      213: -6336789419714797087
+    second: mini_4_653
+  - first:
+      213: 7460009758244887125
+    second: mini_4_654
+  - first:
+      213: -3065454434082218701
+    second: mini_4_655
+  - first:
+      213: 2047571560332740978
+    second: mini_4_656
+  - first:
+      213: -614650471216841739
+    second: mini_4_657
+  - first:
+      213: 473204459938911476
+    second: mini_4_658
+  - first:
+      213: -1439951354075676192
+    second: mini_4_659
+  - first:
+      213: 6506227380184181444
+    second: mini_4_660
+  - first:
+      213: 7144537090268268244
+    second: mini_4_661
+  - first:
+      213: -2146282392069418650
+    second: mini_4_662
+  - first:
+      213: -2859437389467957597
+    second: mini_4_663
+  - first:
+      213: -1004582701037021027
+    second: mini_4_664
+  - first:
+      213: -4703002025309198602
+    second: mini_4_665
+  - first:
+      213: -1137428165498050208
+    second: mini_4_666
+  - first:
+      213: -3195178588532750700
+    second: mini_4_667
+  - first:
+      213: -3731323759736507474
+    second: mini_4_668
+  - first:
+      213: -7055048517222032558
+    second: mini_4_669
+  - first:
+      213: 5971019433618507535
+    second: mini_4_670
+  - first:
+      213: 1610146916915878441
+    second: mini_4_671
+  - first:
+      213: 1867510903540154560
+    second: mini_4_672
+  - first:
+      213: 9007862721072544377
+    second: mini_4_673
+  - first:
+      213: 6418840994009382963
+    second: mini_4_674
+  - first:
+      213: 2237879809530574720
+    second: mini_4_675
+  - first:
+      213: 7733684384450955159
+    second: mini_4_676
+  - first:
+      213: 5605849285732998921
+    second: mini_4_677
+  - first:
+      213: 1305955849816726694
+    second: mini_4_678
+  - first:
+      213: -4935140721832251329
+    second: mini_4_679
+  - first:
+      213: -7594675453314682190
+    second: mini_4_680
+  - first:
+      213: -1397751092467742030
+    second: mini_4_681
+  - first:
+      213: -1007723813852824216
+    second: mini_4_682
+  - first:
+      213: 7706190909836980481
+    second: mini_4_683
+  - first:
+      213: 7186207825681377434
+    second: mini_4_684
+  - first:
+      213: -946531929374940328
+    second: mini_4_685
+  - first:
+      213: 2622353590979656789
+    second: mini_4_686
+  - first:
+      213: -2841922396740728946
+    second: mini_4_687
+  - first:
+      213: -6650568738951734735
+    second: mini_4_688
+  - first:
+      213: 2666470006307912211
+    second: mini_4_689
+  - first:
+      213: -5795406372656086483
+    second: mini_4_690
+  - first:
+      213: 5329590095102408193
+    second: mini_4_691
+  - first:
+      213: -1236222610380787079
+    second: mini_4_692
+  - first:
+      213: 106469220018718049
+    second: mini_4_693
+  - first:
+      213: -7063354261019328389
+    second: mini_4_694
+  - first:
+      213: 4457470482988638233
+    second: mini_4_695
+  - first:
+      213: -3749405478474052132
+    second: mini_4_696
+  - first:
+      213: -5417972530839828978
+    second: mini_4_697
+  - first:
+      213: 1659290274561829670
+    second: mini_4_698
+  - first:
+      213: 7598399273522780218
+    second: mini_4_699
+  - first:
+      213: 3714140692832005320
+    second: mini_4_700
+  - first:
+      213: 8811639837951583957
+    second: mini_4_701
+  - first:
+      213: -8220982709382583656
+    second: mini_4_702
+  - first:
+      213: 8634848036165093180
+    second: mini_4_703
+  - first:
+      213: 250278966297997959
+    second: mini_4_704
+  - first:
+      213: 3740061040175268139
+    second: mini_4_705
+  - first:
+      213: 6978930767372870284
+    second: mini_4_706
+  - first:
+      213: 8879833354106556501
+    second: mini_4_707
+  - first:
+      213: -1144658444556252752
+    second: mini_4_708
+  - first:
+      213: 3800536677883564846
+    second: mini_4_709
+  - first:
+      213: 773644839219112218
+    second: mini_4_710
+  - first:
+      213: 7258345467445216153
+    second: mini_4_711
+  - first:
+      213: -7787769616834262922
+    second: mini_4_712
+  - first:
+      213: -6334267065830855847
+    second: mini_4_713
+  - first:
+      213: -2389577878879802026
+    second: mini_4_714
+  - first:
+      213: 4415023152910881456
+    second: mini_4_715
+  - first:
+      213: 735684043655591453
+    second: mini_4_716
+  - first:
+      213: 3616166855899555614
+    second: mini_4_717
+  - first:
+      213: 44105054569636148
+    second: mini_4_718
+  - first:
+      213: -1611385666743240414
+    second: mini_4_719
+  - first:
+      213: 9124080109875101665
+    second: mini_4_720
+  - first:
+      213: -8368451770698266820
+    second: mini_4_721
+  - first:
+      213: -2115709994642425344
+    second: mini_4_722
+  - first:
+      213: 2761519315261559775
+    second: mini_4_723
+  - first:
+      213: 3138477206781611487
+    second: mini_4_724
+  - first:
+      213: 3298952406642051103
+    second: mini_4_725
+  - first:
+      213: -6725227691123647220
+    second: mini_4_726
+  - first:
+      213: -6169897566656574943
+    second: mini_4_727
+  - first:
+      213: -4930362532409393622
+    second: mini_4_728
+  - first:
+      213: -4767866763087922196
+    second: mini_4_729
+  - first:
+      213: -139073357550469930
+    second: mini_4_730
+  - first:
+      213: 7943739681412698723
+    second: mini_4_731
+  - first:
+      213: -3127958919740438112
+    second: mini_4_732
+  - first:
+      213: -7352425288162729453
+    second: mini_4_733
+  - first:
+      213: -5200071814051221350
+    second: mini_4_734
+  - first:
+      213: 3497282170993592276
+    second: mini_4_735
+  - first:
+      213: 7093464334565940888
+    second: mini_4_736
+  - first:
+      213: 295343088474839944
+    second: mini_4_737
+  - first:
+      213: -8112813496631039951
+    second: mini_4_738
+  - first:
+      213: -8279826115006933552
+    second: mini_4_739
+  - first:
+      213: -944827704284320840
+    second: mini_4_740
+  - first:
+      213: 7873385331452991703
+    second: mini_4_741
+  - first:
+      213: 2564492934487411913
+    second: mini_4_742
+  - first:
+      213: -4121588379090692138
+    second: mini_4_743
+  - first:
+      213: -6959620243650812062
+    second: mini_4_744
+  - first:
+      213: 7006876514754805489
+    second: mini_4_745
+  - first:
+      213: 7615306700202963027
+    second: mini_4_746
+  - first:
+      213: -7956507175229580927
+    second: mini_4_747
+  - first:
+      213: -3434428627650925853
+    second: mini_4_748
+  - first:
+      213: 6241322511209211176
+    second: mini_4_749
+  - first:
+      213: 7428295990165649632
+    second: mini_4_750
+  - first:
+      213: -4254491300006277916
+    second: mini_4_751
+  - first:
+      213: 7161150902709551622
+    second: mini_4_752
+  - first:
+      213: 2534541113114271802
+    second: mini_4_753
+  - first:
+      213: 1609394974770838945
+    second: mini_4_754
+  - first:
+      213: 7869588358905919629
+    second: mini_4_755
+  - first:
+      213: -4409070035048393998
+    second: mini_4_756
+  - first:
+      213: 2258443094555941783
+    second: mini_4_757
+  - first:
+      213: -5928013318643142010
+    second: mini_4_758
+  - first:
+      213: 9049459370903079467
+    second: mini_4_759
+  - first:
+      213: 7064082044172453764
+    second: mini_4_760
+  - first:
+      213: 2780891452816187515
+    second: mini_4_761
+  - first:
+      213: -2120298490648947472
+    second: mini_4_762
+  - first:
+      213: 5915060701439984687
+    second: mini_4_763
+  - first:
+      213: -7904231344562987115
+    second: mini_4_764
+  - first:
+      213: -5085671454367309706
+    second: mini_4_765
+  - first:
+      213: 7926838996654858235
+    second: mini_4_766
+  - first:
+      213: -3566062882131326553
+    second: mini_4_767
+  - first:
+      213: -7480105323896272134
+    second: mini_4_768
+  - first:
+      213: 2576077183360513208
+    second: mini_4_769
+  - first:
+      213: -5500796769027848328
+    second: mini_4_770
+  - first:
+      213: 3149382883775513496
+    second: mini_4_771
+  - first:
+      213: 6857897784932581181
+    second: mini_4_772
+  - first:
+      213: -1490593153110103122
+    second: mini_4_773
+  - first:
+      213: 4592836752759287582
+    second: mini_4_774
+  - first:
+      213: 1959937984961164387
+    second: mini_4_775
+  - first:
+      213: 7565712444645382551
+    second: mini_4_776
+  - first:
+      213: -1913978991713885716
+    second: mini_4_777
+  - first:
+      213: 5322840901084745789
+    second: mini_4_778
+  - first:
+      213: -6881614371015866528
+    second: mini_4_779
+  - first:
+      213: -7961296103142295347
+    second: mini_4_780
+  - first:
+      213: -7231484626340568538
+    second: mini_4_781
+  - first:
+      213: -1053587049038909673
+    second: mini_4_782
+  - first:
+      213: -3919713491778475624
+    second: mini_4_783
+  - first:
+      213: -8000456371452836007
+    second: mini_4_784
+  - first:
+      213: 3417477031447220289
+    second: mini_4_785
+  - first:
+      213: 7749431903137089319
+    second: mini_4_786
+  - first:
+      213: -3625234587881903183
+    second: mini_4_787
+  - first:
+      213: 7463911159005360042
+    second: mini_4_788
+  - first:
+      213: -7925758934009427837
+    second: mini_4_789
+  - first:
+      213: 1071473893998509333
+    second: mini_4_790
+  - first:
+      213: -6578816510664921517
+    second: mini_4_791
+  - first:
+      213: -2428504265059629455
+    second: mini_4_792
+  - first:
+      213: -4057205475801628959
+    second: mini_4_793
+  - first:
+      213: 2818415111922240242
+    second: mini_4_794
+  - first:
+      213: -3803996907966652838
+    second: mini_4_795
+  - first:
+      213: 8235037617061132197
+    second: mini_4_796
+  - first:
+      213: -7555145851653269843
+    second: mini_4_797
+  - first:
+      213: -7568910036301505004
+    second: mini_4_798
+  - first:
+      213: 2397085311665217402
+    second: mini_4_799
+  - first:
+      213: -7053390658055527446
+    second: mini_4_800
+  - first:
+      213: 9058140604651470421
+    second: mini_4_801
+  - first:
+      213: -9155548712890307167
+    second: mini_4_802
+  - first:
+      213: 7441763237791888124
+    second: mini_4_803
+  - first:
+      213: 8684123431035792583
+    second: mini_4_804
+  - first:
+      213: -2032304578802294014
+    second: mini_4_805
+  - first:
+      213: 7898056911056367090
+    second: mini_4_806
+  - first:
+      213: -3719917729170081377
+    second: mini_4_807
+  - first:
+      213: 6356194713833191248
+    second: mini_4_808
+  - first:
+      213: 1677207119032375144
+    second: mini_4_809
+  - first:
+      213: 1725911401624123802
+    second: mini_4_810
+  - first:
+      213: -3222617619135158770
+    second: mini_4_811
+  - first:
+      213: 1697642992195733641
+    second: mini_4_812
+  - first:
+      213: 5599771245991110935
+    second: mini_4_813
+  - first:
+      213: 1352852083391319540
+    second: mini_4_814
+  - first:
+      213: 1866656475026106208
+    second: mini_4_815
+  - first:
+      213: -599468430492215716
+    second: mini_4_816
+  - first:
+      213: 4041067984145170604
+    second: mini_4_817
+  - first:
+      213: 8490454842552268570
+    second: mini_4_818
+  - first:
+      213: -1754552575763105606
+    second: mini_4_819
+  - first:
+      213: 2220815923637684373
+    second: mini_4_820
+  - first:
+      213: -4620540546975137616
+    second: mini_4_821
+  - first:
+      213: 1121292492879793031
+    second: mini_4_822
+  - first:
+      213: -7634163861122974277
+    second: mini_4_823
+  - first:
+      213: 569831536400630533
+    second: mini_4_824
+  - first:
+      213: -5286420899360162855
+    second: mini_4_825
+  - first:
+      213: -1713712653606026625
+    second: mini_4_826
+  - first:
+      213: -9107495848463482017
+    second: mini_4_827
+  - first:
+      213: -3285358147577136675
+    second: mini_4_828
+  - first:
+      213: -8582083736947183092
+    second: mini_4_829
+  - first:
+      213: -2271852174954461956
+    second: mini_4_830
+  - first:
+      213: 6082206283587966001
+    second: mini_4_831
+  - first:
+      213: -5825870322494261400
+    second: mini_4_832
+  - first:
+      213: -4634064614373221529
+    second: mini_4_833
+  - first:
+      213: -1992606290084528584
+    second: mini_4_834
+  - first:
+      213: 2153328978183750896
+    second: mini_4_835
+  - first:
+      213: -9097801318245616466
+    second: mini_4_836
+  - first:
+      213: -2007359646803106403
+    second: mini_4_837
+  - first:
+      213: 7131775953103251555
+    second: mini_4_838
+  - first:
+      213: 269086690345555164
+    second: mini_4_839
+  - first:
+      213: 8845263409169908907
+    second: mini_4_840
+  - first:
+      213: 4515081021060059398
+    second: mini_4_841
+  - first:
+      213: -5765566646792021380
+    second: mini_4_842
+  - first:
+      213: 5818131291377322748
+    second: mini_4_843
+  - first:
+      213: -4909145792295806632
+    second: mini_4_844
+  - first:
+      213: 3135199902277376304
+    second: mini_4_845
+  - first:
+      213: -5201923639181187227
+    second: mini_4_846
+  - first:
+      213: -5995945295371006607
+    second: mini_4_847
+  - first:
+      213: -444753058268983670
+    second: mini_4_848
+  - first:
+      213: 4653108836178983606
+    second: mini_4_849
+  - first:
+      213: 8555821711148636915
+    second: mini_4_850
+  - first:
+      213: -5429665585017607220
+    second: mini_4_851
+  - first:
+      213: 514598421028968331
+    second: mini_4_852
+  - first:
+      213: 204972531793094193
+    second: mini_4_853
+  - first:
+      213: 316638711337521056
+    second: mini_4_854
+  - first:
+      213: 3664559478970715600
+    second: mini_4_855
+  - first:
+      213: 2911038318664354337
+    second: mini_4_856
+  - first:
+      213: -7786863655485264257
+    second: mini_4_857
+  - first:
+      213: -6801417793233638375
+    second: mini_4_858
+  - first:
+      213: -5688555405443926345
+    second: mini_4_859
+  - first:
+      213: 6027996294947971446
+    second: mini_4_860
+  - first:
+      213: -3497366549365347928
+    second: mini_4_861
+  - first:
+      213: -1923634150641026361
+    second: mini_4_862
+  - first:
+      213: -804002294541297813
+    second: mini_4_863
+  - first:
+      213: 1111285520844637036
+    second: mini_4_864
+  - first:
+      213: -5823517171918440492
+    second: mini_4_865
+  - first:
+      213: -6076721325599992601
+    second: mini_4_866
+  - first:
+      213: -2710294916260995575
+    second: mini_4_867
+  - first:
+      213: 6912356799697851817
+    second: mini_4_868
+  - first:
+      213: 8526270144541911726
+    second: mini_4_869
+  - first:
+      213: -5449875839155104716
+    second: mini_4_870
+  - first:
+      213: 8026522284821723093
+    second: mini_4_871
+  - first:
+      213: -8468338905689051688
+    second: mini_4_872
+  - first:
+      213: -3640339215849713335
+    second: mini_4_873
+  - first:
+      213: 7752502870393779826
+    second: mini_4_874
+  - first:
+      213: 5107751290782930913
+    second: mini_4_875
+  - first:
+      213: 3221541361012787421
+    second: mini_4_876
+  - first:
+      213: 1037434507673860812
+    second: mini_4_877
+  - first:
+      213: 5060228761379133191
+    second: mini_4_878
+  - first:
+      213: 2697739696626180115
+    second: mini_4_879
+  - first:
+      213: 6577693811428537886
+    second: mini_4_880
+  - first:
+      213: 5576114757571144364
+    second: mini_4_881
+  - first:
+      213: 625437600742500512
+    second: mini_4_882
+  - first:
+      213: 5939222116354281037
+    second: mini_4_883
+  - first:
+      213: -1899407750042897164
+    second: mini_4_884
+  - first:
+      213: -4710690138586095322
+    second: mini_4_885
+  - first:
+      213: 7212020023706236563
+    second: mini_4_886
+  - first:
+      213: -6037085792452408468
+    second: mini_4_887
+  - first:
+      213: -1799161778014553609
+    second: mini_4_888
+  - first:
+      213: 6045539172870775689
+    second: mini_4_889
+  - first:
+      213: -6257209079313652099
+    second: mini_4_890
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mini_4_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2448
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cfea68f636516180800000000000000
+      internalID: -9123916575979933754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2424
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 009f1ae108f1fded0800000000000000
+      internalID: -2387154642352867072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2400
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81274adaa2266d8d0800000000000000
+      internalID: -2821960181059653096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2376
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3376ad8114f3ae5f0800000000000000
+      internalID: -726698841044523213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2352
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2989d4aff234df0800000000000000
+      internalID: -197261206583995709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2328
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2f54230409104010800000000000000
+      internalID: 1170963408139607851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2304
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bab54c2338bba6ae0800000000000000
+      internalID: -1555224549136245845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2280
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c56e41d207664c9d0800000000000000
+      internalID: -2754964440065186212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2256
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19c5dfc11b40e6f0800000000000000
+      internalID: -657443005722670821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2232
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ce9955ad4c33b70800000000000000
+      internalID: 8877655732495445079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2208
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a1258d9fe9d9340800000000000000
+      internalID: 4872225167798049419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2184
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2dcdc31791efb290800000000000000
+      internalID: -7872325584631771858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2160
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342bbf8d148ae2620800000000000000
+      internalID: 2751321423136666179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2136
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 639aa47958848b3e0800000000000000
+      internalID: -2037799092779046602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2112
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c1fc2cf07f4d8d0800000000000000
+      internalID: -2822359419389535195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2088
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf1829e8c594cb190800000000000000
+      internalID: -7945394980710612485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2064
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df3bdc8513517350800000000000000
+      internalID: 6012678329538920401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2040
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e64dc44b6b7e5f30800000000000000
+      internalID: 4566222772846282466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2016
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a2aabf13fdfd930800000000000000
+      internalID: 4170297185736993429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1992
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7643c4d0c4ef493b0800000000000000
+      internalID: -5506496841773206425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1968
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c44d75c40ce16a0800000000000000
+      internalID: -6476527779988616061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1944
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23589816cef8e04a0800000000000000
+      internalID: -6625199756403964622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1920
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af7b880df71032350800000000000000
+      internalID: 5990633577803986938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_23
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1896
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f968830bc2e4d90800000000000000
+      internalID: -7111697626197221509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1872
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25a6a671e4f8cdc0800000000000000
+      internalID: -3618373051396741844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1848
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f84f4ab90d09540800000000000000
+      internalID: 5012735752169361285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1824
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c813cd2da6415e820800000000000000
+      internalID: 2946783980220592524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1800
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7d37268ff0f5630800000000000000
+      internalID: 3917867760313686011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1776
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda8498e405f8b780800000000000000
+      internalID: -8666908081443796261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1752
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5abed662ba2ae2d0800000000000000
+      internalID: -3248737235475973538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1728
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee9b583c7010ab00800000000000000
+      internalID: 837687656398429923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1704
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6abfc12a2da17e3a0800000000000000
+      internalID: -6636306033941873754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1680
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13e803b88f115aa0800000000000000
+      internalID: -6174118942168521958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1656
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 092cb7f3958445550800000000000000
+      internalID: 6148618939421934224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1632
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1296cd866a6afef00800000000000000
+      internalID: 1148319663656823073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1608
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e6237a3b19d88bc0800000000000000
+      internalID: -3780533176209561886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1584
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65b18e1641dad2e0800000000000000
+      internalID: -2100136177125182097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1560
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddb8229e958384310800000000000000
+      internalID: 1389422443858398173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1536
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079c4b5158e02a630800000000000000
+      internalID: 3936724989032843632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1512
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa04eea583a475e50800000000000000
+      internalID: 6797983768443240623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0ccf10f318e9070800000000000000
+      internalID: 8115065686184476916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_41
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1464
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c5f742e1408c7780800000000000000
+      internalID: -8683924961019562560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1440
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06ab33de0e2f216b0800000000000000
+      internalID: -5326928361359689120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1416
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9abefc490951350800000000000000
+      internalID: 5986850248476830155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1392
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0dc013af8daecea0800000000000000
+      internalID: -5850548033479979765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1368
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f529d649da0fccc20800000000000000
+      internalID: 3228219661228020319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1344
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ee8f71e96f6bb80800000000000000
+      internalID: -8379238897808773506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1320
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26db005371e417180800000000000000
+      internalID: -9119421908868088478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1296
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76a3034ed7d924bb0800000000000000
+      internalID: -4953223476129285529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_49
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1272
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2aecd4dfdaa5990800000000000000
+      internalID: -7396408134558899471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1248
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 000e99429bc76d1c0800000000000000
+      internalID: -4479255644748521472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_51
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1224
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6448a49904e5778a0800000000000000
+      internalID: -6307469121566374842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1200
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74ce3359e38ada20800000000000000
+      internalID: 3087925532663137404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1176
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8065976199a972e90800000000000000
+      internalID: -7050496709327497720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1152
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178e4650cd3dbef90800000000000000
+      internalID: -6923207060215240591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1128
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e94e17d3ffc88a50800000000000000
+      internalID: 6523692706439252457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1104
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47726c02e8f620c20800000000000000
+      internalID: 3171219743848146804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_57
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037bcfd487300bb80800000000000000
+      internalID: -8381195091297126608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_58
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1056
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a5e7ebeb6d742770800000000000000
+      internalID: 8585124692147824041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1032
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a292a0bd9559290800000000000000
+      internalID: -7884296775339005429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1008
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6425eda71a6f2d30800000000000000
+      internalID: 4408859210153272428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 984
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4124005a71434acb0800000000000000
+      internalID: -4853697222241402348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_62
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 960
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbdfce24034108f30800000000000000
+      internalID: 4575679418922237372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 936
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7ea77dbc5ab20300800000000000000
+      internalID: 216940639545699967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 912
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edd971ec6f1ced810800000000000000
+      internalID: 1792082967503805918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 888
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cea669b80f9af680800000000000000
+      internalID: -8720482868630475068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_66
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 864
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e61c577ea1bdfbf0800000000000000
+      internalID: -288879438196893984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 840
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f90bf04e62e3a80800000000000000
+      internalID: -8485301886961803420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 816
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 572af68475de43790800000000000000
+      internalID: -7551149716060265867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 792
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a675e44ce5811670800000000000000
+      internalID: 8507728420894242468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_70
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0846367b4d20748c0800000000000000
+      internalID: -4015237430144441216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_71
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca99d8bea14863d0800000000000000
+      internalID: -3213246115447465268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_72
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fe13e102406a9c0800000000000000
+      internalID: -3916438289960014049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 696
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 848f0df4c8edd67f0800000000000000
+      internalID: -617592879664007096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_74
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 672
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc9dbd42f08cfb60800000000000000
+      internalID: 7781236034364087485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 648
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b0db155e6894dc0800000000000000
+      internalID: -3654241303157470435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 624
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c296fbda5b99ba90800000000000000
+      internalID: -7297630906637446458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0cabf29e32827c30800000000000000
+      internalID: 4355686994886241293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_78
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 576
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a69a98a831544c0800000000000000
+      internalID: -4304012383146644853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_79
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 552
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1d464187c815b40800000000000000
+      internalID: 5427273473324274124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 528
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 887d921932bc647f0800000000000000
+      internalID: -628591744351873144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_81
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 504
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db60cb2b0accddc00800000000000000
+      internalID: 927122088873690813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd61fb24efaab97b0800000000000000
+      internalID: -5216387734360353059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5d28131c76155b30800000000000000
+      internalID: 4275348143410261342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 432
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bf646bf1f9dad280800000000000000
+      internalID: -9017655670527987788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_85
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 408
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2328aad82d00c28b0800000000000000
+      internalID: -5175760967435648462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_86
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0c6ea542a043730800000000000000
+      internalID: 3977815522135163119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_87
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 601dde8ea799e3f90800000000000000
+      internalID: -6971966419949989626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 336
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad5eb7c2dcef1640800000000000000
+      internalID: 5053017696971414944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 312
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c90ac7d18471c70800000000000000
+      internalID: 8941694876649561187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86d20236df7923a70800000000000000
+      internalID: 8805267336008314216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 264
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81535ba3bda9cfc10800000000000000
+      internalID: 2088714593566536984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efb62a10d8c046380800000000000000
+      internalID: -8979037957312582658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_93
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 216
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72504c6d51cc09e40800000000000000
+      internalID: 5661249125774263591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_94
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56b37ee1321fa170800000000000000
+      internalID: 8191786252873479775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_95
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 168
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7f89364ac23a1da0800000000000000
+      internalID: -5973406111410581635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 144
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ba8b19c5a81e2de0800000000000000
+      internalID: -1356119337469244751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_97
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba7a8ac3541f9bf0800000000000000
+      internalID: -315511098779731268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_98
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b00cd2ce44baea110800000000000000
+      internalID: 1274144057100976139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_99
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 72
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1b303061d2e6d70800000000000000
+      internalID: 9038211074742268337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ac73a11aaa71aa0800000000000000
+      internalID: -6190291553891136942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff021aacc86cdee90800000000000000
+      internalID: -6994716338239233793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mini_4_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 6
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33521caf47a865c20800000000000000
+      internalID: 3194893220693746995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
