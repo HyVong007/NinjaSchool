@@ -1,0 +1,1 @@
+Huynh ơi, em Lộc đây, lâu rồi không gặp... Dạo này huynh dùng facebook nào - acc nào của huynh cũng bị khóa thế, anh em trong group UNITY chẳng ai biết tung tích huynh ở đâu, mọi người cũng lo lắm.... có thấy được tin này thì liên hệ facebook em nhé `https://www.facebook.com/loc.yen.512/`. Anh em mình nói chuyện chơi
